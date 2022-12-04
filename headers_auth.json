@@ -1,0 +1,9 @@
+{
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "Accept": "*/*",
+  "Accept-Language": "en-US,en;q=0.5",
+  "Content-Type": "application/json",
+  "X-Goog-AuthUser": "0",
+  "x-origin": "https://music.youtube.com",
+  "Cookie" : "ENTER COOKIE VALUE HERE:   Starts with: CONSENT=YES+US.en+201905; _ga=GA1.2XXXXXXXXXXXXXX; LOGIN_INFO="
+}
